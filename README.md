@@ -1,2 +1,6 @@
-# a-General-survey-analysis
-A medical university in Iran explored a nutrition idea via an online survey. As a data scientist, I assessed the survey's reliability, data quality, feasibility, and investor readiness. The goal was to determine if the results support the idea and attract investors, highlighting the importance of data-driven decisions in public health.
+# a General survey analysis
+### Project Description
+In one of Iran's leading medical universities, a team initiated a project to explore a novel idea in the field of nutrition tailored for the Iranian society. To evaluate the feasibility of this idea, the team designed and distributed an online survey targeting relevant stakeholders.
+
+As a data scientist, I was engaged to assess the survey's data and provide an expert opinion on its reliability and the validity of its results. The primary goal was to determine whether the survey outcomes were robust enough to support the team's hypothesis and potentially attract investor interest.
+
